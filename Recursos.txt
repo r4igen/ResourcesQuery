@@ -4,5 +4,6 @@ Sunat|https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/jcrS00Alias|ConsultaR
 Sunat|https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusquedaWeb.jsp|ConsultaRuc sin captcha y full datos
 Sunat|https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusquedaMovil.jsp|Consulta ruc con captcha y pocos datos
 Sunat|https://e-consulta.sunat.gob.pe/cl-at-ittipcam/tcS01Alias|Tipo de cambio consulta sin captcha
+Sunat|https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsmulruc/jrmS00Alias|Consulta ruc varios
 Otros|https://dni.optimizeperu.com/tipo-cambio|Consulta tipo de cambio
 
