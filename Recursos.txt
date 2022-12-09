@@ -1,9 +1,12 @@
 ----Lista de Url----
 Pagina|Url|Descripcion
+**Ruc**
 Sunat|https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/jcrS00Alias|ConsultaRuc sin captcha full datos
 Sunat|https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusquedaWeb.jsp|ConsultaRuc sin captcha y full datos
 Sunat|https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusquedaMovil.jsp|Consulta ruc con captcha y pocos datos
+**Tipo Cambio**
+Sunat|https://www.sunat.gob.pe/a/txt/tipoCambio.txt
 Sunat|https://e-consulta.sunat.gob.pe/cl-at-ittipcam/tcS01Alias|Tipo de cambio consulta sin captcha
 Sunat|https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsmulruc/jrmS00Alias|Consulta ruc varios
+**Otros**
 Otros|https://dni.optimizeperu.com/tipo-cambio|Consulta tipo de cambio
-
